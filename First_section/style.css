@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header {
+    background-color: #0AA1D4;
+    height: 100vh;
+   
+}
+#circle {
+    width: 40%;
+}
+.logo-section {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 14.59%;
+    left: -9.2%;
+    height: 120px;
+}
+#shop-text {
+    position: absolute;
+    top: 34.5%;
+    left: 25.62%;
+    width: 21%;
+}
+#sign-up {
+    position: absolute;
+    left: 7.03%;
+    top: 59.59%;
+    width: 40%;
+}
+#cover-img {
+    position: absolute;
+    left: 60.71%;
+    right: 0%;
+    top: 32.5%;
+    width: 38%;
+}
