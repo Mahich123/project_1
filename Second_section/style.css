@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header {
+    background-color: #0AA1D4;
+    height: 100vh;
+    width: 1005;
+}
+#logo {
+    position: absolute;
+    left: 63px;
+    top: 40px;
+}
+#circle_1 {
+    width: 28%;
+    bottom: -17px;
+    position: absolute;
+}
+#student-svg {
+    position: absolute;
+    top: 15%;
+    width: 43%;
+    left: 75px;
+}
+#hello_text {
+    position: absolute;
+    left: 27.75rem;
+    top: 12.063rem;
+    width: 7%;
+}
+#person {
+    position: absolute;
+    left: 27.75rem;
+    top: 15.223rem;
+}
+#person-svg {
+    width: 34%;
+}
+#ball-svg {
+    width: 8%;
+}
+#Ellipse {
+    position: absolute;
+    left: 63.5rem;
+    width: 333.53px;
+    height: 758.85px;
+    top: -87.48px;
+}
+#login {
+    position: absolute;
+    left: 51rem;
+    top: 42px;
+}
+#login_card {
+    width: 29rem;
+    height: 34rem;
+}
+#Welcome {
+    position: absolute;
+    left: 63rem;
+    top: 5rem;
+}
+#welcome {
+  width: 9rem;
+}
+#progress {
+  width: 14rem;
+} 
+#logIn {
+    width: 6rem;
+}
