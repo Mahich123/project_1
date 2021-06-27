@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header {
+    background-color: #0AA1D4;
+    height: 100vh;
+    width: 1005;
+}
+#logo {
+    position: absolute;
+    left: 63px;
+    top: 40px;
+}
+#circle_1 {
+    width: 28%;
+    bottom: -17px;
+    position: absolute;
+}
+.student {
+    position: absolute;
+    top: 5.5rem;
+    left: 63rem;
+}
+
+#Ellipse {
+    position: absolute;
+    left: 63.5rem;
+    width: 333.53px;
+    height: 758.85px;
+    top: -87.48px;
+}
+#message-svg {
+    width: 4rem;
+    margin-right: 1rem;
+}
+#profile-svg {
+    width: 4rem;
+}
+#profile-card {
+    width: 50%;
+    position: absolute;
+    top: 14rem;
+    left: 22rem;
+}
+.text-card {
+    position: absolute;
+    top: 21rem;
+    left: 28rem;
+}
+.text-card2 {
+    position: absolute;
+    top: 21rem;
+    left: 47rem;
+}
+#rectangle {
+    width: 64%;
+}
+#rectangle2 {
+    width: 64%;
+}
+#view-item {
+    position: absolute;
+    left: 494px;
+    top: 363px;
+    width: 7%;
+}
+#post {
+    position: absolute;
+    top: 23rem;
+    width: 9%;
+    left: 49rem;
+}
